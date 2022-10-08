@@ -8,7 +8,7 @@ tag:
 - basis data
 - keamanan siber
 category: blog
-author: ronipranata
+author: johndoe
 description: Berikut adalah laporan untuk tugas 1 sampai dengan 3
 ---
 

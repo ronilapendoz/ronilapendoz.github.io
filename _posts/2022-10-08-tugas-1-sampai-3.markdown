@@ -1,7 +1,16 @@
 ---
 title: "Tugas 1 Sampai 3"
-layout: page
-date: 2022-10-08 21:31
+layout: post
+date: 2016-02-24 22:48
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- markdown
+- components
+- extra
+category: blog
+author: jamesfoster
+description: Markdown summary with different options
 ---
 
 Filenya:  

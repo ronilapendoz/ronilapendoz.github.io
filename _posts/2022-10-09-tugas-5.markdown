@@ -1,5 +1,5 @@
 ---
-title: "Tugas 1 Sampai 3"
+title: "Tugas 5"
 layout: post
 date: 2016-02-24 22:48
 image: /assets/images/markdown.jpg
@@ -14,4 +14,4 @@ description: Markdown summary with different options
 ---
 
 Filenya:  
-![Tugas 1 Sampai 3](https://github.com/ronilapendoz/ronilapendoz.github.io/blob/main/assets/documents/Keamanan%20Basis%20Data_4332101042_Roni%20Pranata.pdf)
+![Tugas 5](https://github.com/ronilapendoz/ronilapendoz.github.io/blob/main/assets/documents/W5_BasisData_RoniPranata.pdf)

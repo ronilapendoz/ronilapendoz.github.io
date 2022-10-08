@@ -1,7 +1,7 @@
 ---
 title: "Tugas 1 Sampai 3"
 layout: post
-date: 2016-02-24 22:48
+date: 2022-10-08 22:02
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:

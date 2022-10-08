@@ -1,6 +1,6 @@
 ---
 title: "Tugas 1 Sampai 3"
-layout: post
+layout: page
 date: 2022-10-08 21:31
 ---
 

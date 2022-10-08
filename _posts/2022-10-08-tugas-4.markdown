@@ -14,4 +14,4 @@ description: Markdown summary with different options
 ---
 
 Filenya:  
-![Tugas 4](https://github.com/ronilapendoz/ronilapendoz.github.io/blob/main/assets/documents/ACL%20MYSQL_4332101042_Roni%20Pranata.pdf)
+[Tugas 4](https://github.com/ronilapendoz/ronilapendoz.github.io/blob/main/assets/documents/ACL%20MYSQL_4332101042_Roni%20Pranata.pdf)

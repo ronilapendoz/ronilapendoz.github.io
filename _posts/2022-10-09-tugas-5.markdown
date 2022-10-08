@@ -14,4 +14,4 @@ description: Markdown summary with different options
 ---
 
 Filenya:  
-![Tugas 5](https://github.com/ronilapendoz/ronilapendoz.github.io/blob/main/assets/documents/W5_BasisData_RoniPranata.pdf)
+[Tugas 5](https://github.com/ronilapendoz/ronilapendoz.github.io/blob/main/assets/documents/W5_BasisData_RoniPranata.pdf)
